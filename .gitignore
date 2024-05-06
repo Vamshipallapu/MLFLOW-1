@@ -149,6 +149,12 @@ dmypy.json
 #ignoring Env folder
 env/
 
+#mlruns
+mlruns/
+
+#temp
+temp/
+
 # pytype static type analyzer
 .pytype/
 
